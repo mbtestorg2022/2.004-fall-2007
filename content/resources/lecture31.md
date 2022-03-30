@@ -5,6 +5,7 @@ description: Lecture slides on design using the frequency response and Bode plot
   of systems with multiple poles and zeros
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-systems-modeling-and-control-ii-fall-2007/d7f72387260ff809af4cd8de9fe1d529_lecture31.pdf
 file_type: application/pdf
+parent_uid: d1eeb003-70a1-b8e5-5211-e97eacb45b0e
 resourcetype: Document
 title: lecture31.pdf
 uid: d7f72387-260f-f809-af4c-d8de9fe1d529

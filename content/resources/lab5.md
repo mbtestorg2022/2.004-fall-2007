@@ -5,6 +5,7 @@ description: Laboratory project to investigate the elimination of steady-state e
   to compare the experimental results with a Simulink digital simulation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-systems-modeling-and-control-ii-fall-2007/26b8c9e34fec8fdeac61fc71ee8f5d36_lab5.pdf
 file_type: application/pdf
+parent_uid: 297befa5-f0da-480c-cd4d-d14eea022573
 resourcetype: Document
 title: lab5.pdf
 uid: 26b8c9e3-4fec-8fde-ac61-fc71ee8f5d36

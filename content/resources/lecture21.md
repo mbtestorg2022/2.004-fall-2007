@@ -4,6 +4,7 @@ description: Lecture slides on design via root locus, adding a compensator, elim
   steady-state error without changing the transient, and other types of compensators.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-systems-modeling-and-control-ii-fall-2007/a79828e3abd3b00903cefe34ae9d03f3_lecture21.pdf
 file_type: application/pdf
+parent_uid: d1eeb003-70a1-b8e5-5211-e97eacb45b0e
 resourcetype: Document
 title: lecture21.pdf
 uid: a79828e3-abd3-b009-03ce-fe34ae9d03f3

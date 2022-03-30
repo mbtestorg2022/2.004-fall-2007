@@ -6,6 +6,7 @@ description: Lecture slides on steady state error analysis, definitions, steady-
   gain and step disturbance cancellation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-systems-modeling-and-control-ii-fall-2007/2ae4b585b8094070cd2b77cbde5d6f6f_lecture16.pdf
 file_type: application/pdf
+parent_uid: d1eeb003-70a1-b8e5-5211-e97eacb45b0e
 resourcetype: Document
 title: lecture16.pdf
 uid: 2ae4b585-b809-4070-cd2b-77cbde5d6f6f

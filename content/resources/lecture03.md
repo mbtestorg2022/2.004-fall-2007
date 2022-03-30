@@ -5,6 +5,7 @@ description: Lecture slides on Laplace transforms, transfer functions, translati
   ODEs.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-systems-modeling-and-control-ii-fall-2007/63c439dbeddf8111d5e6c7b95440b5a3_lecture03.pdf
 file_type: application/pdf
+parent_uid: d1eeb003-70a1-b8e5-5211-e97eacb45b0e
 resourcetype: Document
 title: lecture03.pdf
 uid: 63c439db-eddf-8111-d5e6-c7b95440b5a3
